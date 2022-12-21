@@ -16,6 +16,8 @@ My name is Mike Helmers. I’m a millennial living in Madison, WI.
 - [HelmersFlix](http://helmersflix.com)
 - [Helmerscloud](https://helmerscloud.com)
 
+## How to reach Mike
+
 My preference is to use the [Signal app](https://www.signal.org/).
 
 - [mikehelmers@protonmail.com](mailto:mikehelmers@proton.me)
