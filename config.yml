@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Mike Helmers: The Blog"
     Content: Welcome to my Mike's home on the Internet
 
   socialIcons:
