@@ -78,13 +78,17 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/mphelmers/'"
+      url: 'https://twitter.com/mphelmers/'
+      rel: me
     - name: stackoverflow
-      url: "https://stackoverflow.com/users/12197007/northsaluki615"
+      url: 'https://stackoverflow.com/users/12197007/northsaluki615'
+      rel: me
     - name: github
-      url: "https://github.com/"
+      url: 'https://github.com/northsaluki615'
+      rel: me
     - name: LinkedIn
       url: 'https://www.linkedin.com/in/michaelhelmers/'
+      rel: me
     - name: Mastodon
       url: 'https://infosec.exchange/@northsaluki615'
       rel: me
