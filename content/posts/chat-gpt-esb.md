@@ -31,4 +31,4 @@ title = "Mike and ChatGPT Brew a Beer"
 - [ ] Pitch the English ale yeast and ferment for 7-10 days at 68°F.
 - [ ] After fermentation, bottle or keg and carbonate to your preference.
 
-***This recipie was created with assistance by ChatGPT, an AI language model.***
+***This recipe was created with assistance by ChatGPT, an AI language model.***
